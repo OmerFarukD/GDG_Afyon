@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstDay", "FirstDay\FirstDay.csproj", "{FD866982-67C1-4986-981D-E3B3309CEAC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KararMekanizmalari", "KararMekanizmalari\KararMekanizmalari.csproj", "{5302D690-567F-4BD1-9033-D53EE5863B51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD866982-67C1-4986-981D-E3B3309CEAC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD866982-67C1-4986-981D-E3B3309CEAC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD866982-67C1-4986-981D-E3B3309CEAC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD866982-67C1-4986-981D-E3B3309CEAC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5302D690-567F-4BD1-9033-D53EE5863B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5302D690-567F-4BD1-9033-D53EE5863B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5302D690-567F-4BD1-9033-D53EE5863B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5302D690-567F-4BD1-9033-D53EE5863B51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EE828E5-8F02-48FF-AD13-E5F549C016B5}
+	EndGlobalSection
+EndGlobal
